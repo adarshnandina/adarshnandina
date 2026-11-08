@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats:
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=adarshnandina&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" />
+
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshnandina&theme=highcontrast&hide_border=false" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshnandina&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
 </div>
