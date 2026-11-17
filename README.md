@@ -11,7 +11,7 @@
 
 ## 🚀 Technical Skills:
 - Languages: Python, C, Java
-- Frameworks: Flask, FastAPI, LangChain
+- Frameworks: PyTorch, Huggingface, FastAPI, LangChain
 - Cloud technologies: AWS
 
 ## 💼 Experience & Achievements:
