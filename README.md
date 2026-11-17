@@ -6,20 +6,10 @@
 <br>
 
 ## 🤓 About me:
-- 🔍 I am a Master's student in Data Science and Artificial Intelligence 
-- 💎 I work with Python, LLMs
+- I am a Master's student in Data Science and Artificial Intelligence 
+- I work with Python, LLMs
 
 ## 🚀 Technical Skills:
 - Languages: Python, C, Java
 - Frameworks: PyTorch, Huggingface, FastAPI, LangChain
 - Cloud technologies: AWS
-
-## 💼 Experience & Achievements:
-
-
-## 📊 GitHub Stats:
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshnandina&theme=highcontrast&hide_border=false" />
-
-</div>
